@@ -1,1 +1,1 @@
-worker: bash run_linuxmac.sh
+worker: python loopself.py
