@@ -1,14 +1,14 @@
 {
-    "show_search_term": "True",
-    "rich_embed": "on",
-    "custom_search_engine": "",
     "quoteembed_color": "auto",
-    "password": "",
-    "embed_color": "",
-    "google_api_key": "",
     "24hours": "true",
-    "customcmd_color": "27007A",
-    "timezone": "",
     "ascii_font": "big",
+    "show_search_term": "True",
+    "embed_color": "",
+    "google_api_key": "AIzaSyCKcJ1Rfr_d1MZKC4vN5galL_6VXks2Hw8",
+    "customcmd_color": "27007A",
+    "password": "",
+    "rich_embed": "on",
+    "custom_search_engine": "012233381613967025881:-8a2evkmujo",
+    "timezone": "",
     "default_status": "idle"
 }
