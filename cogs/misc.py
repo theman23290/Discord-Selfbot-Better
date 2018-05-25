@@ -625,7 +625,7 @@ class Misc:
         if embed_perms(ctx.message):
             pong = discord.Embed(title='Pong! Response Time:', description=str(ping.microseconds / 1000.0) + ' ms',
                                  color=0x7A0000)
-            pong.set_thumbnail(url='https://i.imgur.com/tXicYtd.png')
+            pong.set_thumbnail(url='https://i.imgur.com/mh27yIo.jpg')
             await ctx.send(content=None, embed=pong)
         else:
             await ctx.send(self.bot.bot_prefix + '``Response Time: %s ms``' % str(ping.microseconds / 1000.0))
